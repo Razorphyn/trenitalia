@@ -7,7 +7,7 @@ Elenco Stazioni
 ---------------
 La chiamata di autocompletamento è
 http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/autocompletaStazione/[stringa]
-o anche (qual'è la differenza?)
+o anche (differenza?)
 http://www.viaggiatreno.it/viaggiatrenonew/resteasy/viaggiatreno/autocompletaStazioneNTS/[stringa]
 
 Risposta testuale separata dal carattere di pipe (|)
